@@ -1,0 +1,8 @@
+.container {
+  border: 5px solid blue;
+}
+
+.home {
+  min-height: 100vh;
+  background-color: #333;
+}

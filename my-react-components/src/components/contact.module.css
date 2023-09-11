@@ -1,0 +1,15 @@
+.contact {
+  font-size: 16px;
+  line-height: 1.5;
+  float: left;
+}
+
+.contact a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.contact a:hover {
+  color: red;
+  text-decoration: none;
+}
